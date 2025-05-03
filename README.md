@@ -1,5 +1,7 @@
 - 👋 Olá, eu sou a Laís de Souza Neves
 
+- 📚 Atualmente estudando **Python**, **HTML/CSS** e **JavaScript**.
+
 🛠️ Tecnologias que uso:
 - 🌐 HTML | CSS | JavaScript  
 - 🐍 Python  
