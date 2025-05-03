@@ -1,4 +1,9 @@
 - 👋 Olá, eu sou a Laís de Souza Neves
+
+🛠️ Tecnologias que uso:
+- 🌐 HTML | CSS | JavaScript  
+- 🐍 Python  
+- ⚙️ GitHub
   
 - 🎯 Tenho grande interesse em áreas que combinam inovação e tecnologia para criar soluções práticas e impactantes. Atualmente, foco meus estudos e projetos em:       • Desenvolvimento Web (Frontend e Backend)
    
