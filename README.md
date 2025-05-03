@@ -2,7 +2,7 @@
 
 - 📚 Atualmente estudando:
 
-- 🌐 HTML | CSS | JavaScript | SQL
+- 🌐 HTML | CSS | JavaScript | MySQL
 - 🐍 Python  
 
   
