@@ -18,3 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NevesLais&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevesLais&layout=compact&theme=tokyonight" />
 </div>
+
+
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
