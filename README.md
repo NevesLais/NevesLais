@@ -19,7 +19,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevesLais&layout=compact&theme=tokyonight" />
 </div>
 
+##
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"; width:50px; weight:50px />
+          
+ 
           
 
