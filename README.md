@@ -14,17 +14,6 @@
    
 ➜📫 Como chegar até mim: [nevessouzalais@gmail.com](mailto:nevessouzalais@gmail.com)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NevesLais&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevesLais&layout=compact&theme=tokyonight" />
-</div>
-
-##
-
-
-
-
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -54,23 +43,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
 
 
 <img 
